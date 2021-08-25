@@ -9,5 +9,8 @@ public class TestGit {
 		System.err.println("合并===");
 		System.err.println("分支===");
 		System.err.println("分支开发===");
+		
+		
+		System.out.println("测试分支");
 	}
 }
