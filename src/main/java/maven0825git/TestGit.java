@@ -6,5 +6,7 @@ public class TestGit {
 		System.err.println("git管理===");
 		System.err.println("git修改===");
 		System.err.println("git修改bug,xxx===");
+		System.err.println("合并===");
+		System.err.println("分支===");
 	}
 }
