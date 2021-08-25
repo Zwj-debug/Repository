@@ -10,12 +10,9 @@ public class TestGit {
 		System.err.println("分支===");
 		System.err.println("主干开发===");
 		System.err.println("分支开发===");
-		
-
 		System.err.println("测试主干");
-
-		
 		System.out.println("测试分支");
+		System.out.println("测试git");
 
 	}
 }
